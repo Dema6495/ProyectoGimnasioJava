@@ -8,6 +8,7 @@ Para usar la nueva funcionalidad basta con llamar al metodo nuevaActividad(); e 
 En el codigo esta de la siguiente manera:
 
   miGimnasio.nuevaActividad("Baloncesto");
+  
   miGimnasio.mostrarActividades();
 
 Despues de llamar al metodo mencionado se vuelve a usar el metodo mostrarActividades(); para comprobar que se ha introducido correctamente.
